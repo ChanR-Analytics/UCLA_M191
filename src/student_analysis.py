@@ -12,6 +12,3 @@ union_df['Student Name'].shape
 df_dict['M191_student_data']['School Name'].nunique()
 
 union_df['Student Name'].tolist()
-MyFinalList = union_df['Student Name'].tolist()
-new_students = [name for name in m196_students if name not in MyFinalList] 
-new_students
