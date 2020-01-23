@@ -1,26 +1,25 @@
-#,Student Name,Student Grade,School
-Registration status: Enrolled
-1,Aries Romero,12,John f Kennedy high school
-2,Ethan Chen,10,Chaminade College Prep
-3,Jules Brownstein,10,TREE ACADEMY
-4,Jessica De La Torre,12,South Gate High School
-5,Bill Cheng,11,Arcadia High School
-6,Anoushka Bhat,11,Diamond Bar
-7,Colin Thekkinedath,10,West High
-8,Subrina Kuo,11,None
-9,Arushi Bagchi,9,None
-10,Spencer Tong,12,None
-11,Bryce Tobiano,11,None
-12,Scott Phu,11,Arcadia High School
-13,Matthew Chak,10,North Hollywood High School
-14,David Delgado,12,None
-15,Nikolay Petrushin,9,Northwood High
-16,Xinge (Annie) Wen,11,Gabrielino High School
-17,Lavanya Sharma,11,North Hollywood High School
-18,Aaron Hofman,12,None
-19,Laura Marie Strobbe,10,Notre Dame Academy
-20,Brandon Lin,11,Irvine High School
-21,Jonathan Haile,12,Aveson Global Leadership Academy
-22,Rishi Kumra,10,West Torrance High School
-23,Edwin Shum,11,None
-24,Logan Garcia,11,Arcadia High School
+Student Name,Student Grade,School
+Aries Romero,12.0,John f Kennedy high school
+Ethan Chen,10.0,Chaminade College Prep
+Jules Brownstein,10.0,TREE ACADEMY
+Jessica De La Torre,12.0,South Gate High School
+Bill Cheng,11.0,Arcadia High School
+Anoushka Bhat,11.0,Diamond Bar
+Colin Thekkinedath,10.0,West High
+Subrina Kuo,11.0,None
+Arushi Bagchi,9.0,None
+Spencer Tong,12.0,None
+Bryce Tobiano,11.0,None
+Scott Phu,11.0,Arcadia High School
+Matthew Chak,10.0,North Hollywood High School
+David Delgado,12.0,None
+Nikolay Petrushin,9.0,Northwood High
+Xinge (Annie) Wen,11.0,Gabrielino High School
+Lavanya Sharma,11.0,North Hollywood High School
+Aaron Hofman,12.0,None
+Laura Marie Strobbe,10.0,Notre Dame Academy
+Brandon Lin,11.0,Irvine High School
+Jonathan Haile,12.0,Aveson Global Leadership Academy
+Rishi Kumra,10.0,West Torrance High School
+Edwin Shum,11.0,None
+Logan Garcia,11.0,Arcadia High School
