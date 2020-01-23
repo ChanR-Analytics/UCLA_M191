@@ -1,14 +1,26 @@
-Student Name,Grade Level,School Name
-Vivian Tran,12,None
-Rachel Qu,12,Diamond Bar High School
-Daosiri Rattanamansuang,12,Granada Hills Charter High School
-Erick Tejeda,12,None
-Brandon Lin,11,Irvine High School
-Edwin Shum,11,None
-Bill Cheng,11,Arcadia High School
-Scott Phu,11,Arcadia High School
-Justin Wang,11,None
-Rosemany Ting,11,Arcadia High School
-Anoushka Bhat,11,Diamond Bar High School
-Nikolay Petrushin,9,Northwood High School
-Aaron Hofman,12,None
+#,Student Name,Student Grade,School
+Registration status: Enrolled
+1,Vivian Tran,12,None
+2,ERICK TEJEDA,12,None
+3,Tanner Wong,10,Arcadia High School
+4,Rachel Jang,11,None
+5,Bill Cheng,11,Arcadia High School
+6,Anoushka Bhat,11,Diamond Bar
+7,Arushi Bagchi,9,None
+8,Spencer Tong,12,None
+9,Scott Phu,11,Arcadia High School
+10,Dylan Lim,12,None
+11,Rosemary Ting,11,Arcadia High School
+12,Justin Wang,11,None
+13,Tobey Wong,12,Arcadia High School
+14,Nikolay Petrushin,9,Northwood High
+15,Ivan Delgado,11,Van Nuys High School
+16,Aaron Hofman,12,None
+17,Rachel Qu,12,Diamond Bar High School
+18,Keigo Morita,9,west torrance
+19,Daosiri Rattanamansuang,12,Granada Hills Charter High School
+20,Veronica Sifuentes,12,gabrielino high school
+21,Laura Marie Strobbe,10,Notre Dame Academy
+22,Brandon Lin,11,Irvine High School
+23,Edwin Shum,11,None
+24,Caitlin Yee,12,Gabrielino High School
