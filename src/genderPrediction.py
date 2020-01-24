@@ -26,3 +26,5 @@ df['Gender'] = gender_preds
 
 # Save New Data
 df.to_csv(f"{data_path}/{listdir(data_path)[0]}", index=False)
+
+df['Gender']
