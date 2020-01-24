@@ -1,25 +1,25 @@
-Student Name,Student Grade,School
-David Recendiz,12.0,None
-Akshata Chettupalli,9.0,North Hollywood High School
-ERICK TEJEDA,12.0,None
-Jessica De La Torre,12.0,South Gate High School
-Angelina Chen,9.0,Chaminade College Prep
-Bill Cheng,11.0,Arcadia High School
-Gordon Bi,10.0,Rowland High School
-roger kave,10.0,North Hollywood High School
-Conner Gossman,11.0,Highland Hall Waldorf School
-Aaron Hofman,12.0,None
-Rachel Qu,12.0,Diamond Bar High School
-Lucas Jones,10.0,Arnold beckman high school
-Wasi Khan,10.0,Tustin High School
-Brandon Lin,11.0,Irvine High School
-Jonathan Haile,12.0,Aveson Global Leadership Academy
-Ahmet Gundogdu,10.0,University High School
-Edwin Shum,11.0,None
-Vishwanath Durgam,11.0,North Hollywood High School
-Max Fukuhara,10.0,Arnold. O Beckman High School
-Yasmeen Soriano,12.0,South Gate Senior High School
-Ana Ruiz,11.0,South Gate Senior High School
-Scott Phu,11.0,Arcadia High School
-Justin Wang,11.0,None
-Stanley Tong,12.0,None
+Student Name,Student Grade,School,Gender
+David Recendiz,12.0,None,M
+Akshata Chettupalli,9.0,North Hollywood High School,F
+ERICK TEJEDA,12.0,None,M
+Jessica De La Torre,12.0,South Gate High School,F
+Angelina Chen,9.0,Chaminade College Prep,F
+Bill Cheng,11.0,Arcadia High School,M
+Gordon Bi,10.0,Rowland High School,M
+roger kave,10.0,North Hollywood High School,M
+Conner Gossman,11.0,Highland Hall Waldorf School,M
+Aaron Hofman,12.0,None,M
+Rachel Qu,12.0,Diamond Bar High School,M
+Lucas Jones,10.0,Arnold beckman high school,M
+Wasi Khan,10.0,Tustin High School,F
+Brandon Lin,11.0,Irvine High School,M
+Jonathan Haile,12.0,Aveson Global Leadership Academy,M
+Ahmet Gundogdu,10.0,University High School,M
+Edwin Shum,11.0,None,M
+Vishwanath Durgam,11.0,North Hollywood High School,M
+Max Fukuhara,10.0,Arnold. O Beckman High School,M
+Yasmeen Soriano,12.0,South Gate Senior High School,M
+Ana Ruiz,11.0,South Gate Senior High School,F
+Scott Phu,11.0,Arcadia High School,M
+Justin Wang,11.0,None,M
+Stanley Tong,12.0,None,F
